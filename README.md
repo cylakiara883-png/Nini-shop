@@ -1,2 +1,2 @@
-# Nini-shop
+# nini-shop
 Boutique en ligne -Nini shop
